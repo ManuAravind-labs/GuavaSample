@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/optionalButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Optional Class"
+        />
+
+    <Button
+        android:id="@+id/preConditionButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pre Condition Class" />
+    <Button
+        android:id="@+id/orderingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ordering Class" />
+
+    <Button
+        android:id="@+id/objectButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Object Class" />
+
+    <Button
+        android:id="@+id/predicateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Predicate Class" />
+
+</LinearLayout>

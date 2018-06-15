@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuavaSamples</string>
+    <string name="intro">Guava is an open source, Java-based library developed by Google. It facilitates best coding practices and helps reduce coding errors. It provides utility methods for collections, caching, primitives support, concurrency, common annotations, string processing, I/O, and validations. </string>
+    <string name="optional">Optional is an immutable object used to contain a not-null object. Optional object is used to represent null with absent value. This class has various utility methods to facilitate the code to handle values as available or not available instead of checking null values.</string>
+    <string name="preconditions">Preconditions provide static methods to check that a method or a constructor is invoked with proper parameter or not. It checks the pre-conditions. Its methods throw IllegalArgumentException on failure.</string>
+</resources>
